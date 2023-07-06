@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My latest project involves text mining and is focused on analyzing news sources in order to identify “positive” news content. This project is part of the capstone for my ADS grad program.\
+My interests for future projects include financial analysis and forecasting, climate modeling and forecasting, and environmental impact studies.\
+I love data wrangling, as well as solving complex problems with implementation of defined system infrastructures to enable performance measures and repeatability.\
+Thanks for stopping by! I would love to hear your feedback or any ideas for collaboration.
