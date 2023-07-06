@@ -19,3 +19,5 @@ My latest project involves text mining and is focused on analyzing news sources 
 My interests for future projects include financial analysis and forecasting, climate modeling and forecasting, and environmental impact studies.\
 I love data wrangling, as well as solving complex problems with implementation of defined system infrastructures to enable performance measures and repeatability.\
 Thanks for stopping by! I would love to hear your feedback or any ideas for collaboration.
+
+Please check out my LinkedIn for professional experience: www.linkedin.com/in/carr-aaron
